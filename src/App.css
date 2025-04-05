@@ -1,3 +1,5 @@
+
+
 .App {
   text-align: center;
 }
@@ -13,8 +15,8 @@
   }
 }
 
-.App-header {
-  background-color: #282c34;
+body {
+  background-color: #5e6166;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -22,6 +24,7 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  overflow: hidden;
 }
 
 .App-link {
@@ -35,4 +38,110 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+
+.button-group {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 1rem;
+  border-radius: 2vw;
+  cursor: pointer;
+  background-color: #61dafb;
+  border: none;
+}
+
+button:hover {
+  background-color: #21a1f1;
+}
+
+h1 {
+  color: #fff;
+  font-size: 10vw;
+}
+
+
+.supercoolheader{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: #61dafb;
+  margin-top: 20px;
+  background-color: rgb(75, 74, 82);
+  padding: 2vh 5vw ;
+  top: 0;
+  left: 0;
+  right: 0;
+  margin: 0;
+  padding: 1vh;
+  position: fixed;
+}
+
+.supercoolbuttonicon{
+  width: 10vw;
+  height: 10vw;
+  background-color: transparent;
+}
+
+.supercoolbackbutton:hover{
+  background-color: transparent;
+}
+
+.supercoolbackbutton{
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  width: 15vw;
+  height: 15vw;
+}
+
+.pfp{
+  width: 20vw;
+  height: 20vw;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid #61dafb;
+  position: fixed;
+  top: 3vw;
+  left: 3vw;
+}
+
+.username {
+  font-size: 3.5vw;
+  color: #61dafb;
+  top: 3vw;
+  margin: 3vw 0 0 27vw;
+  align-self: left;
+  text-align: left;
+}
+.usertitle {
+  font-size: 3vw;
+  color: #61dafb;
+  top: 3vw;
+  margin: 1vw 0 0 27vw;
+  align-self: left;
+  text-align: left;
+}
+
+.button-group {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  grid-column-gap: 5vw;
+  grid-row-gap: 5vw;
+  padding: 5vw;
+  width: 90vw;
+}
+
+.nav-button {
+  font-size: min(2rem, 6vw);
+  width: 100%;
+  aspect-ratio: 1;
 }
