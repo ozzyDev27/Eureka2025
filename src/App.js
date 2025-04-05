@@ -7,6 +7,7 @@ import Bushcraft from './pages/Bushcraft';
 import NavigationSafety from './pages/NavigationSafety';
 import Food from './pages/Food';
 import Fire from './pages/Fire';
+import Quest from './pages/Quest'
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
         <Route path="/navigation" element={<NavigationSafety />} />
         <Route path="/food" element={<Food />} />
         <Route path="/fire" element={<Fire />} />
+        <Route path="/quest/:name" component={Quest} />
       </Routes>
     </Router>
   );

@@ -1,6 +1,8 @@
 import '../App.css';
+import QuestPage from '../components/QuestPage'
+
 function Fire() {
-    return <h1>Fire Making Techniques</h1>;
+    return <QuestPage name="Fire"/>;
   }
   
   export default Fire;

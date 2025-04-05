@@ -1,7 +1,7 @@
-
-
 .App {
   text-align: center;
+  overflow: hidden;
+  height:100vh;
 }
 
 .App-logo {
@@ -24,7 +24,7 @@ body {
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
-  overflow: hidden;
+  font-family: "Funnel Sans", sans-serif;
 }
 
 .App-link {
@@ -95,6 +95,7 @@ h1 {
 
 .supercoolbackbutton{
   background-color: transparent;
+  color: #fff;
   border: none;
   cursor: pointer;
   padding: 0;
@@ -107,23 +108,23 @@ h1 {
   height: 20vw;
   border-radius: 50%;
   object-fit: cover;
-  border: 2px solid #61dafb;
+  border: 3px solid #fff;
   position: fixed;
   top: 3vw;
   left: 3vw;
 }
 
 .username {
-  font-size: 3.5vw;
-  color: #61dafb;
+  font-size: 4.5vw;
+  color: #fff;
   top: 3vw;
   margin: 3vw 0 0 27vw;
   align-self: left;
   text-align: left;
 }
 .usertitle {
-  font-size: 3vw;
-  color: #61dafb;
+  font-size: 4vw;
+  color: #fff;
   top: 3vw;
   margin: 1vw 0 0 27vw;
   align-self: left;
@@ -144,4 +145,101 @@ h1 {
   font-size: min(2rem, 6vw);
   width: 100%;
   aspect-ratio: 1;
+}
+
+.userlevel {
+  width: 66vw;
+  height: 3.5vw;
+  background-color: #ccc;
+  border-radius: 1.75vw;
+  margin: 3vw 7vw 0 auto;
+  left: auto;
+  overflow: hidden;
+  position: relative;
+}
+
+.levelprogress {
+  width: 45vw;
+  height: 3.5vw;
+  background-color: #61dafb;
+  border-radius: 1.75vw; 
+  transition: width 0.3s ease-in-out;
+}
+
+.quest-list-item {
+  display: flex;
+  align-items: center;
+  background-color: #828282;
+  color: #fff;
+  text-decoration: none;
+  margin-bottom: 2vh;
+  border-radius: 20px;
+  padding: 20px;
+  width: 80vw;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.icon-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.icon {
+  font-size: 2em;
+}
+
+.level {
+  margin-top: 10px;
+  margin-bottom: 5px;
+  font-size: 3vw;
+  font-weight: bold;
+}
+
+.text-section {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  text-align: right;
+  flex-grow: 1;
+}
+
+.title {
+  font-size: 2em;
+  margin: 0;
+}
+
+.description {
+  font-size: 3.5vw;
+  margin-top: 1vw;
+  margin-bottom: 1vw;  
+}
+
+.main-title {
+  position: fixed;
+  font-size: 6vw;
+  font-weight: bold;
+  top: -1vw;
+  right: 3vw;
+}
+
+.supercoolheadertitle{
+  color: #fff;
+  font-size:8vw;
+  font-weight:bold;
+  margin: 0 2vw 0 0;
+}
+
+.epicbushcraft{
+  overflow:show;
+}
+
+.questlistcontainer {
+  margin-top: 11vh
+}
+
+.whattodo {
+  font-size: 5vw;
+  color: #fff;
+  margin: -60vw 0 0 2vw;
 }

@@ -1,14 +1,267 @@
 {
   "Bushcraft": [
     {
+      "title": "Choose a Campsite",
+      "description": "Find a safe location for your campsite.",
+      "steps": "Look for flat, dry ground away from hazards like falling branches or water run-off areas. Avoid animal trails and check for wind direction.",
+      "level": 1,
+      "url": "",
+      "order": 1,
+      "imgdesc": "",
+      "tips": [
+        "Always consider the wind direction to avoid discomfort.",
+        "Look up for overhanging branches that could fall.",
+        "Stay at least 200 feet from lakes or rivers to avoid flooding."
+      ]
+    },
+    {
+      "title": "Clear the Area",
+      "description": "Prepare the surrounding area for use.",
+      "steps": "Remove rocks, sticks, and debris from the site. Create a flat space where you'll place your gear and possibly a fire later.",
+      "level": 1,
+      "url": "",
+      "order": 2,
+      "imgdesc": "",
+      "tips": [
+        "Use a shovel or stick to dig out stubborn rocks.",
+        "Clear an area large enough for your tent and gear.",
+        "Don’t leave debris on the ground as it can attract pests."
+      ]
+    },
+    {
+      "title": "Establish Camp Boundaries",
+      "description": "Set up the layout of your campsite.",
+      "steps": "Decide areas for cooking, sleeping, and gear. Keep food storage away from sleeping areas and designate a safe spot for a fire if needed.",
+      "level": 1,
+      "url": "",
+      "order": 1,
+      "imgdesc": "",
+      "tips": [
+        "Separate cooking areas from sleeping areas to avoid smells attracting animals.",
+        "Place your tent with a windbreak in mind for extra warmth.",
+        "Choose a cooking site that's downhill from your tent to avoid mess."
+      ]
+    },
+    {
+      "title": "Lay Groundsheet",
+      "description": "Begin the process of laying a tent.",
+      "steps": "Spread a tarp or footprint at the most elevated and flat location on your campsite. Tip: Choose sleep with your head uphill to avoid getting a headache!",
+      "level": 2,
+      "url": "",
+      "order": 1,
+      "imgdesc": "",
+      "tips": [
+        "Avoid laying your groundsheet too large to prevent water collection.",
+        "Place the shiny side of the tarp down to avoid reflecting heat.",
+        "Ensure no sharp objects are under the groundsheet that could puncture it."
+      ]
+    },
+    {
+      "title": "Straighten Poles",
+      "description": "Straighten, and lay poles in a designated pile",
+      "steps": "Assemble poles and attach the tent body securely, propping up the tent with the poles. Tip: Once the tent is rigid, place the tent bag inside!",
+      "level": 2,
+      "url": "",
+      "order": 2,
+      "imgdesc": "",
+      "tips": [
+        "Make sure poles are securely connected before setting up.",
+        "If poles seem bent, carefully check them for damage.",
+        "Once the tent is stable, make sure it's centered on the groundsheet."
+      ]
+    },
+    {
+      "title": "Stake and Secure",
+      "description": "Keep the tent stable.",
+      "steps": "Stake corners deep into the ground and add guylines if windy.",
+      "level": 2,
+      "url": "",
+      "order": 3,
+      "imgdesc": "",
+      "tips": [
+        "Use strong stakes for rocky or windy terrain.",
+        "Ensure guylines are taut for maximum stability.",
+        "Check the stakes regularly in windy conditions."
+      ]
+    },
+    {
+      "title": "Create a Windbreak",
+      "description": "Block wind to protect your camp.",
+      "steps": "Use a tarp stretched between trees or poles. Secure it with paracord or wire at multiple anchor points. Position it upwind of your tent and fire to reduce wind exposure.",
+      "level": 3,
+      "url": "",
+      "order": 0,
+      "imgdesc": "",
+      "tips": [
+        "Check wind direction regularly, especially during the night.",
+        "A double-layer tarp offers more protection.",
+        "Position the windbreak to shield both your tent and kitchen area."
+      ]
+    },
+    {
+      "title": "Rainproof the Area",
+      "description": "Prevent water from flooding your camp.",
+      "steps": "Set up a rain tarp above your tent at an angle for runoff. Dig shallow trenches around your tent if needed to divert water. Keep gear elevated on rocks or logs.",
+      "level": 3,
+      "url": "",
+      "order": 0,
+      "imgdesc": "",
+      "tips": [
+        "Always make sure the tarp is angled properly to avoid water pooling.",
+        "Digging a small trench around the tent can prevent water from flowing in.",
+        "Elevating gear helps keep it dry in wet conditions."
+      ]
+    },
+    {
+      "title": "Secure Loose Gear",
+      "description": "Protect items from damage",
+      "steps": "Store lightweight gear inside your tent or under cover. Tie down larger items like backpacks with paracord. Keep tools and cookware bundled or inside a dry bag.",
+      "level": 3,
+      "url": "",
+      "order": 1,
+      "imgdesc": "",
+      "tips": [
+        "Use a dry bag to keep small items safe from moisture.",
+        "Store food and other attractants inside secure containers.",
+        "Keep important gear easily accessible for emergencies."
+      ]
+    },
+    {
+      "title": "Secure Food Storage",
+      "description": "Protect food from wildlife and the elements.",
+      "steps": "Place food and scented items in a bear-resistant container or dry barrel. Seal it tightly and stash it at least 100 feet from your camp. If using a tree, hang the barrel 10 feet off the ground and 4 feet from the trunk using rope or wire.",
+      "level": 3,
+      "url": "",
+      "order": 2,
+      "imgdesc": "",
+      "tips": [
+        "Store food away from any scent trails or animal pathways.",
+        "Make sure containers are tightly sealed to prevent odors.",
+        "If hanging food, use a strong rope to ensure it stays in place."
+      ]
+    },
+    {
+      "title": "Build a Camp Kitchen",
+      "description": "Organize a clean and functional cooking space.",
+      "steps": "Set up a table or flat surface using logs or rocks. Keep cooking tools in one spot. Create a tripod or hanging system for pots over the fire using sticks and cord.",
+      "level": 4,
+      "url": "",
+      "order": 1,
+      "imgdesc": "",
+      "tips": [
+        "Always cook at least 10 feet away from your tent to avoid smoke.",
+        "Keep the kitchen area clean to avoid attracting animals.",
+        "Use a tripod system for stable cooking over an open flame."
+      ]
+    },
+    {
+      "title": "Create Seating & Workspaces",
+      "description": "Improve comfort and usability of your camp.",
+      "steps": "Build benches or stools from logs and stumps. Flatten and clear an area to use as a prep zone. Use large flat rocks or wooden planks as surfaces.",
+      "level": 4,
+      "url": "",
+      "order": 2,
+      "imgdesc": "",
+      "tips": [
+        "Make sure seating is stable and comfortable for longer periods.",
+        "Use flat surfaces for food prep to prevent spills.",
+        "Keep your prep area organized to make cooking easier."
+      ]
+    },
+    {
+      "title": "Set Up a Clothesline",
+      "description": "Dry clothes and gear efficiently.",
+      "steps": "Stretch paracord between two trees in a sunny or breezy spot. Hang damp items using clothespins, sticks, or loops. Raise the line high to avoid animals or foot traffic.",
+      "level": 4,
+      "url": "",
+      "order": 3,
+      "imgdesc": "",
+      "tips": [
+        "Ensure the clothesline is stretched tightly to avoid sagging.",
+        "Use a higher line to avoid animal interference.",
+        "Hang wet clothes during the day for faster drying in the sun."
+      ]
+    },
+    {
+      "title": "Construct a Lean-To Shelter",
+      "description": "Build a simple, effective shelter using branches and natural debris.",
+      "steps": "Find two sturdy trees and lean branches or logs against them to form the shelter frame. Cover the frame with leaves, pine needles, or other natural materials for insulation and protection from rain. Ensure the open side faces away from prevailing winds.",
+      "level": 5,
+      "url": "",
+      "order": 1,
+      "imgdesc": "",
+      "tips": [
+        "Choose a location that offers additional protection, such as near a fallen tree or dense foliage.",
+        "Use larger branches for the frame and smaller ones for thatching.",
+        "Regularly check for stability, especially after strong winds or heavy rain."
+      ]
+    },
+    {
+      "title": "Build a Debris Hut",
+      "description": "Create a compact shelter using forest debris for insulation.",
+      "steps": "Select a flat area with abundant natural materials. Construct a frame using branches, forming an A-frame shape. Pile leaves, pine needles, and other debris over the frame, ensuring a thick layer for warmth. Leave a small opening for ventilation.",
+      "level": 5,
+      "url": "",
+      "order": 2,
+      "imgdesc": "",
+      "tips": [
+        "Focus on insulating the shelter floor to prevent heat loss.",
+        "Keep the entrance small to retain heat.",
+        "Regularly add fresh debris to maintain insulation effectiveness."
+      ]
+    },
+    {
+      "title": "Create a Cedar Plank Shelter",
+      "description": "Utilize cedar wood for a durable and weather-resistant shelter.",
+      "steps": "Harvest cedar logs, ensuring to debark them properly to prevent rot. Construct a frame using larger logs, and attach cedar planks vertically for walls. Use smaller branches or split cedar for roofing, layering them to create a waterproof barrier.",
+      "level": 5,
+      "url": "",
+      "order": 3,
+      "imgdesc": "",
+      "tips": [
+        "When harvesting cedar, take care not to strip too much bark from living trees to preserve them.",
+        "Ensure the roof has a slight pitch to allow rainwater to run off.",
+        "Regularly inspect the shelter for signs of wear or damage, especially after storms."
+      ]
+    }
+  ],
+  "Fire": [
+    {
       "title": "Generic Quest",
       "description": "Idk lol",
-      "level": 5
+      "level": 1,
+      "order": 1
     },
     {
       "title": "Generic Quest2",
       "description": "Idk loller",
-      "level": 4
+      "level": 1
+    }
+  ],
+  "Orienteering": [
+    {
+      "title": "Generic Quest",
+      "description": "Idk lol",
+      "level": 1,
+      "order": 1
+    },
+    {
+      "title": "Generic Quest2",
+      "description": "Idk loller",
+      "level": 1
+    }
+  ],
+  "Food": [
+    {
+      "title": "Generic Quest",
+      "description": "Idk lol",
+      "level": 1,
+      "order": 1
+    },
+    {
+      "title": "Generic Quest2",
+      "description": "Idk loller",
+      "level": 1
     }
   ]
 }

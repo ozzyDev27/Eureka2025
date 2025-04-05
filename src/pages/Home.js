@@ -8,10 +8,12 @@ function Home() {
         <img src={require('../ozzyLogo-shadow.png')} className="pfp" alt="pfp" />
         <p class="username">Miles Easton</p>
         <p class="usertitle">Veteran Camper</p>
-        <p class="main title!">Camp Quest</p>
+        <div className="userlevel"><div className="levelprogress"></div></div>
+        <p class="main-title">CampQuest</p>
         
       </header>
       <body>
+        <div className="whattodo">What would you like to work towards?</div>
         <div className="button-group">
             <Link to="/bushcraft"><button className="nav-button">Bushcraft</button></Link>
             <Link to="/navigation"><button className="nav-button">Navigation & Safety</button></Link>

@@ -11,7 +11,7 @@ function Header({ title }) {
           <IoMdArrowBack  class="supercoolbuttonicon"/>
         </button>
       </Link>
-      <p className="header-title">{title}</p>
+      <p className="supercoolheadertitle">{title}</p>
     </div>
   );
 }

@@ -1,7 +1,9 @@
 import '../App.css';
-function NavigationSafety() {
-    return <h1>Navigation & Safety Tips</h1>;
+import QuestPage from '../components/QuestPage'
+
+function Orienteering() {
+    return <QuestPage name="Orienteering"/>;
   }
   
-  export default NavigationSafety;
+  export default Orienteering;
   

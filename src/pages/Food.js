@@ -1,6 +1,8 @@
 import '../App.css';
+import QuestPage from '../components/QuestPage'
+
 function Food() {
-    return <h1>Camp Food Ideas</h1>;
+    return <QuestPage name="Food"/>;
   }
   
   export default Food;
