@@ -16,8 +16,8 @@
 }
 
 body {
-  background-color: #5e6166;
-  min-height: 100vh;
+  background-color: #355e3a;
+  min-height: 100vh; 
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -53,12 +53,8 @@ button {
   font-size: 1rem;
   border-radius: 2vw;
   cursor: pointer;
-  background-color: #61dafb;
-  border: none;
-}
-
-button:hover {
-  background-color: #21a1f1;
+  background-color: #179d42;
+  border: black 0.7vw solid;
 }
 
 h1 {
@@ -66,14 +62,13 @@ h1 {
   font-size: 10vw;
 }
 
-
 .supercoolheader{
   display: flex;
   align-items: center;
   justify-content: space-between;
   color: #61dafb;
   margin-top: 20px;
-  background-color: rgb(75, 74, 82);
+  background-color: #224426;
   padding: 2vh 5vw ;
   top: 0;
   left: 0;
@@ -151,19 +146,22 @@ h1 {
   width: 66vw;
   height: 3.5vw;
   background-color: #ccc;
-  border-radius: 1.75vw;
+  border-radius: 2vw;
   margin: 3vw 7vw 0 auto;
   left: auto;
   overflow: hidden;
   position: relative;
+  border: black 0.7vw solid;
 }
 
 .levelprogress {
   width: 45vw;
   height: 3.5vw;
-  background-color: #61dafb;
+  background-color: #61fb66;
+  margin: -0.7vw 0 0 -0.7vw;
   border-radius: 1.75vw; 
   transition: width 0.3s ease-in-out;
+  border: black 0.7vw solid;
 }
 
 .quest-list-item {
@@ -219,8 +217,8 @@ h1 {
   position: fixed;
   font-size: 6vw;
   font-weight: bold;
-  top: -1vw;
-  right: 3vw;
+  top: -4vw;
+  right: 2vw;
 }
 
 .supercoolheadertitle{
@@ -242,4 +240,20 @@ h1 {
   font-size: 5vw;
   color: #fff;
   margin: -60vw 0 0 2vw;
+}
+
+.epictent {
+  width: 30vw;
+  margin: 1vh 0 0 0;
+}
+
+.selectorthingy{
+  margin: 0 0 1vh 0;
+  color:white;
+  font-size: 5vw;
+  font-weight: bold;
+}
+
+.andfire{
+  rotate: 10deg;
 }

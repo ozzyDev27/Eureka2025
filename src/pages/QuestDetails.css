@@ -1,0 +1,60 @@
+.quest-container {
+  max-width: 400px;
+  margin: 0 5vw;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.level-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+
+.icon {
+  font-size: 10vw;
+  margin-right: 1vw;
+}
+
+.level {
+  font-size: 5vw;
+}
+
+.title {
+  font-size: 24px;
+  margin: 10px 0;
+}
+
+.image-container {
+  margin: 20px 0;
+}
+
+.quest-image {
+  width: 100%;
+  border-radius: 15px;
+}
+
+.description {
+  margin: 20px 0;
+}
+
+.tips-title {
+  font-size: 20px;
+  margin: 20px 0 10px;
+}
+
+.tips-list {
+  list-style-type: disc;
+  padding-left: 20px;
+  text-align: left;
+}
+
+.complete-button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 20px;
+  background-color: #ccc;
+  cursor: pointer;
+}

@@ -5,98 +5,105 @@
       "description": "Find a safe location for your campsite.",
       "steps": "Look for flat, dry ground away from hazards like falling branches or water run-off areas. Avoid animal trails and check for wind direction.",
       "level": 1,
-      "url": "",
+      "url": "https://midwestexplored.com/wp-content/uploads/2022/05/tent-by-a-river-camping-in-illinois.jpg",
       "order": 1,
       "imgdesc": "",
       "tips": [
         "Always consider the wind direction to avoid discomfort.",
         "Look up for overhanging branches that could fall.",
         "Stay at least 200 feet from lakes or rivers to avoid flooding."
-      ]
+      ],
+      "icon": "tree"
     },
     {
       "title": "Clear the Area",
       "description": "Prepare the surrounding area for use.",
       "steps": "Remove rocks, sticks, and debris from the site. Create a flat space where you'll place your gear and possibly a fire later.",
       "level": 1,
-      "url": "",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt87dm-pCVQ3gZRQfLXZkryF0zm5XEqzs2nw&s",
       "order": 2,
       "imgdesc": "",
       "tips": [
         "Use a shovel or stick to dig out stubborn rocks.",
         "Clear an area large enough for your tent and gear.",
         "Don’t leave debris on the ground as it can attract pests."
-      ]
+      ],
+      "icon": "campfire"
     },
     {
       "title": "Establish Camp Boundaries",
       "description": "Set up the layout of your campsite.",
       "steps": "Decide areas for cooking, sleeping, and gear. Keep food storage away from sleeping areas and designate a safe spot for a fire if needed.",
       "level": 1,
-      "url": "",
-      "order": 1,
+      "url": "https://hipcamp-res.cloudinary.com/f_auto,c_limit,w_1280,q_auto:eco/v1689997525/campground-photos/l163t5yxdq4fes1xxo4g.jpg",
+      "order": 3,
       "imgdesc": "",
       "tips": [
         "Separate cooking areas from sleeping areas to avoid smells attracting animals.",
         "Place your tent with a windbreak in mind for extra warmth.",
         "Choose a cooking site that's downhill from your tent to avoid mess."
-      ]
+      ],
+      "icon": "campfire"
     },
     {
       "title": "Lay Groundsheet",
       "description": "Begin the process of laying a tent.",
       "steps": "Spread a tarp or footprint at the most elevated and flat location on your campsite. Tip: Choose sleep with your head uphill to avoid getting a headache!",
       "level": 2,
-      "url": "",
+      "url": "https://belltentsussex.co.uk/cdn/shop/products/Bell-tent-ground-sheet-bell-tent-sussex-4.jpg?v=1666638013&width=416",
       "order": 1,
       "imgdesc": "",
       "tips": [
         "Avoid laying your groundsheet too large to prevent water collection.",
         "Place the shiny side of the tarp down to avoid reflecting heat.",
         "Ensure no sharp objects are under the groundsheet that could puncture it."
-      ]
+      ],
+      "icon": "shelter"
     },
     {
       "title": "Straighten Poles",
       "description": "Straighten, and lay poles in a designated pile",
       "steps": "Assemble poles and attach the tent body securely, propping up the tent with the poles. Tip: Once the tent is rigid, place the tent bag inside!",
       "level": 2,
-      "url": "",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSmqlBT09ghCrc1IFGPDhav2JsOncZV8b6AQ&s",
       "order": 2,
       "imgdesc": "",
       "tips": [
         "Make sure poles are securely connected before setting up.",
         "If poles seem bent, carefully check them for damage.",
         "Once the tent is stable, make sure it's centered on the groundsheet."
-      ]
+      ],
+      "icon": "shelter"
     },
     {
       "title": "Stake and Secure",
       "description": "Keep the tent stable.",
       "steps": "Stake corners deep into the ground and add guylines if windy.",
       "level": 2,
-      "url": "",
+      "url": "https://www.environment.sa.gov.au/files/sharedassets/good_living/images/content/2019/04/camping-safely/camping-safely-body1.jpg?w=1000",
       "order": 3,
       "imgdesc": "",
       "tips": [
         "Use strong stakes for rocky or windy terrain.",
         "Ensure guylines are taut for maximum stability.",
         "Check the stakes regularly in windy conditions."
-      ]
+      ],
+      "icon": "shelter"
     },
     {
       "title": "Create a Windbreak",
       "description": "Block wind to protect your camp.",
       "steps": "Use a tarp stretched between trees or poles. Secure it with paracord or wire at multiple anchor points. Position it upwind of your tent and fire to reduce wind exposure.",
       "level": 3,
-      "url": "",
+      "url": "https://www.themanual.com/wp-content/uploads/sites/9/2022/03/tarp-camping-6.jpg?fit=800%2C800&p=1",
       "order": 0,
       "imgdesc": "",
       "tips": [
         "Check wind direction regularly, especially during the night.",
         "A double-layer tarp offers more protection.",
         "Position the windbreak to shield both your tent and kitchen area."
-      ]
+      ],
+      "icon": "shelter"
     },
     {
       "title": "Rainproof the Area",
@@ -110,7 +117,8 @@
         "Always make sure the tarp is angled properly to avoid water pooling.",
         "Digging a small trench around the tent can prevent water from flowing in.",
         "Elevating gear helps keep it dry in wet conditions."
-      ]
+      ],
+      "icon": "shelter"
     },
     {
       "title": "Secure Loose Gear",
@@ -124,7 +132,8 @@
         "Use a dry bag to keep small items safe from moisture.",
         "Store food and other attractants inside secure containers.",
         "Keep important gear easily accessible for emergencies."
-      ]
+      ],
+      "icon": "campfire"
     },
     {
       "title": "Secure Food Storage",
@@ -138,7 +147,8 @@
         "Store food away from any scent trails or animal pathways.",
         "Make sure containers are tightly sealed to prevent odors.",
         "If hanging food, use a strong rope to ensure it stays in place."
-      ]
+      ],
+      "icon": "tree"
     },
     {
       "title": "Build a Camp Kitchen",
@@ -146,13 +156,14 @@
       "steps": "Set up a table or flat surface using logs or rocks. Keep cooking tools in one spot. Create a tripod or hanging system for pots over the fire using sticks and cord.",
       "level": 4,
       "url": "",
-      "order": 1,
+      "order": 0,
       "imgdesc": "",
       "tips": [
         "Always cook at least 10 feet away from your tent to avoid smoke.",
         "Keep the kitchen area clean to avoid attracting animals.",
         "Use a tripod system for stable cooking over an open flame."
-      ]
+      ],
+      "icon": "campfire"
     },
     {
       "title": "Create Seating & Workspaces",
@@ -160,13 +171,14 @@
       "steps": "Build benches or stools from logs and stumps. Flatten and clear an area to use as a prep zone. Use large flat rocks or wooden planks as surfaces.",
       "level": 4,
       "url": "",
-      "order": 2,
+      "order": 0,
       "imgdesc": "",
       "tips": [
         "Make sure seating is stable and comfortable for longer periods.",
         "Use flat surfaces for food prep to prevent spills.",
         "Keep your prep area organized to make cooking easier."
-      ]
+      ],
+      "icon": "campfire"
     },
     {
       "title": "Set Up a Clothesline",
@@ -174,13 +186,14 @@
       "steps": "Stretch paracord between two trees in a sunny or breezy spot. Hang damp items using clothespins, sticks, or loops. Raise the line high to avoid animals or foot traffic.",
       "level": 4,
       "url": "",
-      "order": 3,
+      "order": 0,
       "imgdesc": "",
       "tips": [
         "Ensure the clothesline is stretched tightly to avoid sagging.",
         "Use a higher line to avoid animal interference.",
         "Hang wet clothes during the day for faster drying in the sun."
-      ]
+      ],
+      "icon": "campfire"
     },
     {
       "title": "Construct a Lean-To Shelter",
@@ -194,7 +207,8 @@
         "Choose a location that offers additional protection, such as near a fallen tree or dense foliage.",
         "Use larger branches for the frame and smaller ones for thatching.",
         "Regularly check for stability, especially after strong winds or heavy rain."
-      ]
+      ],
+      "icon": "shelter"
     },
     {
       "title": "Build a Debris Hut",
@@ -208,7 +222,8 @@
         "Focus on insulating the shelter floor to prevent heat loss.",
         "Keep the entrance small to retain heat.",
         "Regularly add fresh debris to maintain insulation effectiveness."
-      ]
+      ],
+      "icon": "shelter"
     },
     {
       "title": "Create a Cedar Plank Shelter",
@@ -222,35 +237,326 @@
         "When harvesting cedar, take care not to strip too much bark from living trees to preserve them.",
         "Ensure the roof has a slight pitch to allow rainwater to run off.",
         "Regularly inspect the shelter for signs of wear or damage, especially after storms."
-      ]
+      ],
+      "icon": "shelter"
     }
   ],
   "Fire": [
     {
-      "title": "Generic Quest",
-      "description": "Idk lol",
+      "title": "Gather Resources",
+      "description": "Collect the materials needed for a fire.",
+      "steps": "Find dry tinder, kindling, and fuel. Tinder should be small and easy to ignite, kindling should be slightly larger, and fuel should be logs or branches.",
       "level": 1,
-      "order": 1
+      "order": 1,
+      "tips": [
+        "Look for dry leaves, grass, or bark for tinder.",
+        "Use smaller twigs and branches for kindling.",
+        "Ensure fuel is dry and no larger than your wrist for easier burning."
+      ]
     },
     {
-      "title": "Generic Quest2",
-      "description": "Idk loller",
-      "level": 1
+      "title": "Prepare the Fire Pit",
+      "description": "Create a safe and controlled area for your fire.",
+      "steps": "Clear an area of debris, rocks, and leaves. Dig a small pit or use a fire ring if available. Arrange the gathered materials in an accessible way.",
+      "level": 1,
+      "order": 2,
+      "tips": [
+        "Clear a wide area around the fire pit to prevent the spread of flames.",
+        "Digging a shallow pit can help contain the fire.",
+        "Have water or dirt nearby to extinguish the fire if needed."
+      ]
+    },
+    {
+      "title": "Build a Tinder Bundle",
+      "description": "Create a bundle of materials that will ignite easily.",
+      "steps": "Gather small, dry materials like dried grass, leaves, and small twigs. Arrange them loosely to allow airflow for ignition.",
+      "level": 1,
+      "order": 3,
+      "tips": [
+        "Use fluffy materials that catch fire easily.",
+        "Avoid packing the tinder too tightly to allow air circulation.",
+        "Consider adding a bit of birch bark or cotton balls for extra flammability."
+      ]
+    },
+    {
+      "title": "Start the Fire with Matches or Lighter",
+      "description": "Use matches or a lighter to ignite your tinder bundle.",
+      "steps": "Hold the match or lighter close to the tinder bundle and ignite it. Gently blow on the tinder to encourage the flame. Once it catches, add kindling gradually.",
+      "level": 1,
+      "order": 4,
+      "tips": [
+        "Keep your matches or lighter dry in a waterproof container.",
+        "Light the match away from your body to avoid burns.",
+        "Be patient; let the tinder catch before adding larger materials."
+      ]
+    },
+    {
+      "title": "Use a Fire Starter Kit",
+      "description": "Use a specialized fire starter to ignite your tinder.",
+      "steps": "Using a magnesium fire starter or flint and steel, create sparks that land on your tinder bundle. Allow the sparks to ignite the tinder and gradually add kindling.",
+      "level": 2,
+      "order": 1,
+      "tips": [
+        "Use a piece of cotton or a charred cloth to catch the sparks from a flint and steel.",
+        "Ensure you have a solid strike angle when using a magnesium fire starter.",
+        "Keep your fire starter dry and stored in a protective container."
+      ]
+    },
+    {
+      "title": "Construct a Teepee Fire Structure",
+      "description": "Build a cone-shaped structure to direct heat and airflow.",
+      "steps": "Arrange kindling and small branches in a cone shape around the tinder bundle. Leave space for airflow at the base.",
+      "level": 2,
+      "order": 2,
+      "tips": [
+        "Ensure the structure is tall enough to allow for a sustained fire.",
+        "Keep the teepee structure loose so air can circulate.",
+        "Add larger fuel pieces as the fire grows to maintain a consistent flame."
+      ]
+    },
+    {
+      "title": "Create a Log Cabin Fire Structure",
+      "description": "Build a stable fire structure to allow for long-lasting heat.",
+      "steps": "Place two larger logs parallel to each other on the ground. Stack smaller logs on top of them, forming a square. Leave gaps for airflow, and place your tinder inside the structure.",
+      "level": 2,
+      "order": 3,
+      "tips": [
+        "Use logs that are seasoned and dry for better burning.",
+        "Stack the logs in a crisscross fashion for stability.",
+        "Start with smaller logs and gradually build up the structure."
+      ]
+    },
+    {
+      "title": "Use a Bow Drill to Start Fire",
+      "description": "Utilize a bow drill to create friction and generate heat.",
+      "steps": "Create a notch in a flat piece of wood (the hearth), place a spindle in the notch, and use the bow to create friction. Keep the spindle spinning quickly to generate heat until an ember forms.",
+      "level": 4,
+      "order": 1,
+      "tips": [
+        "Use softwood like cedar or pine for the hearth and spindle.",
+        "Ensure the bow is tight and the spindle is securely held.",
+        "Be prepared for a lot of effort and practice to master this technique."
+      ]
+    },
+    {
+      "title": "Use a Fire Plough",
+      "description": "Create fire using a fire plough technique to scrape wood.",
+      "steps": "Find a dry piece of softwood and scrape a sharp edge along the wood, creating friction that produces heat and eventually a spark. Collect the spark and place it on a tinder bundle.",
+      "level": 4,
+      "order": 2,
+      "tips": [
+        "Make sure the piece of wood you use is dry and free from resin.",
+        "Ensure your scraping motion is steady and firm.",
+        "Keep your tinder bundle ready to catch the spark immediately."
+      ]
+    },
+    {
+      "title": "Create a Fire with Sunlight (Magnifying Glass)",
+      "description": "Harness sunlight to create fire with a magnifying glass.",
+      "steps": "Focus sunlight through the magnifying glass onto dry tinder until it begins to smoke. Once the tinder catches, gently blow on it to start the fire.",
+      "level": 4,
+      "order": 3,
+      "tips": [
+        "Use a magnifying glass with a larger lens for more focused sunlight.",
+        "Ensure the weather is sunny with minimal clouds for maximum effectiveness.",
+        "Be patient; it may take some time for the tinder to catch."
+      ]
+    },
+    {
+      "title": "Create Fire with Friction (Bow Drill)",
+      "description": "Master the bow drill technique for firemaking.",
+      "steps": "With the correct materials, use the bow drill method by rubbing the spindle against the hearth with a bow until you create an ember. Carefully transfer the ember to your tinder bundle.",
+      "level": 5,
+      "order": 1,
+      "tips": [
+        "Choose softwood like cottonwood or cedar for the spindle and hearth.",
+        "Ensure the spindle is straight and smooth for maximum friction.",
+        "Work in a dry environment for better results."
+      ]
+    },
+    {
+      "title": "Create Fire with Firesteel",
+      "description": "Use a firesteel to create sparks for firemaking.",
+      "steps": "Strike a firesteel with a metal striker, directing the sparks onto your tinder bundle. Add kindling as the fire catches.",
+      "level": 5,
+      "order": 2,
+      "tips": [
+        "Use dry, fluffy materials for tinder to catch the sparks.",
+        "Aim to create a concentrated spark by striking the firesteel quickly.",
+        "Be aware that firesteel can be challenging in windy conditions."
+      ]
     }
   ],
   "Orienteering": [
     {
-      "title": "Generic Quest",
-      "description": "Idk lol",
+      "title": "Understand Your Terrain",
+      "description": "Familiarize yourself with the landscape before heading out.",
+      "steps": "Study a map of the area and identify key landmarks, including trails, water sources, and terrain features. Understand the weather patterns and potential hazards.",
       "level": 1,
-      "order": 1
+      "order": 1,
+      "tips": [
+        "Carry a topographic map and compass for navigation.",
+        "Familiarize yourself with local wildlife and potential hazards, like cliffs or dense forests.",
+        "Check the weather forecast before leaving to avoid unexpected storms."
+      ]
     },
     {
-      "title": "Generic Quest2",
-      "description": "Idk loller",
-      "level": 1
+      "title": "Pack Essential Navigation Tools",
+      "description": "Ensure you have proper equipment for navigation and safety.",
+      "steps": "Bring a compass, a map, and a GPS device. Make sure your map is relevant to the area you're exploring and that your compass is functioning properly.",
+      "level": 1,
+      "order": 2,
+      "tips": [
+        "Test your compass before the trip to ensure it’s accurate.",
+        "If using a GPS, bring extra batteries or a power bank.",
+        "Learn basic compass skills, like how to use bearings to find your way."
+      ]
+    },
+    {
+      "title": "Plan Your Route",
+      "description": "Chart your path and share your plan with someone.",
+      "steps": "Create a detailed route plan with estimated times for each leg of the journey. Let a friend or family member know your plans and expected return time.",
+      "level": 1,
+      "order": 3,
+      "tips": [
+        "Factor in your experience level and physical capabilities when planning your route.",
+        "Leave a printed copy of your route with someone you trust in case of emergency.",
+        "Avoid pushing yourself to complete overly ambitious routes if you're not prepared."
+      ]
+    },
+    {
+      "title": "Identify Hazardous Terrain",
+      "description": "Recognize dangerous terrain and avoid risky situations.",
+      "steps": "Look for signs of unstable ground, like loose rocks, ice, or steep inclines. Avoid hiking near cliffs or crossing swift-moving water.",
+      "level": 2,
+      "order": 1,
+      "tips": [
+        "Check for loose soil or rocks that could cause a fall.",
+        "Avoid hiking near water during heavy rain or snowmelt when the current is strong.",
+        "Pay attention to trail markers that indicate dangerous terrain."
+      ]
+    },
+    {
+      "title": "Check for Wildlife Hazards",
+      "description": "Be aware of wildlife and know how to respond to encounters.",
+      "steps": "Research the area’s wildlife before your trip. Learn how to identify dangerous animals and know what to do in the event of an encounter (e.g., bears, snakes, or large predators).",
+      "level": 2,
+      "order": 2,
+      "tips": [
+        "Carry bear spray if you're in an area known for bears.",
+        "Make noise as you walk to avoid surprising wildlife.",
+        "Know the signs of dangerous animal behavior and how to react accordingly."
+      ]
+    },
+    {
+      "title": "Stay Hydrated and Nourished",
+      "description": "Ensure you have enough food and water during your trip.",
+      "steps": "Pack sufficient water for your trip, or carry a filter to purify natural water sources. Bring high-energy snacks like nuts, granola bars, or dried fruit to maintain energy.",
+      "level": 2,
+      "order": 3,
+      "tips": [
+        "Drink small amounts of water regularly to avoid dehydration.",
+        "Pack extra food in case of delays or emergencies.",
+        "Check water sources for contamination and filter accordingly."
+      ]
+    },
+    {
+      "title": "Know Basic First Aid",
+      "description": "Be prepared to address minor injuries or medical emergencies.",
+      "steps": "Carry a first aid kit and know how to use its contents. Learn basic first aid skills, such as treating cuts, burns, sprains, and insect stings.",
+      "level": 3,
+      "order": 0,
+      "tips": [
+        "Take a first aid course to familiarize yourself with emergency procedures.",
+        "Pack a basic first aid kit with bandages, antiseptic, pain relief, and a splint.",
+        "Learn how to recognize symptoms of hypothermia and heatstroke."
+      ]
+    },
+    {
+      "title": "Respond to Hypothermia and Heatstroke",
+      "description": "Recognize the signs of hypothermia and heatstroke and act quickly.",
+      "steps": "Monitor for early symptoms like shivering, confusion, or dizziness. For hypothermia, warm the person gradually with blankets and warmth. For heatstroke, move the person to a shaded area, hydrate, and cool them down with water.",
+      "level": 3,
+      "order": 1,
+      "tips": [
+        "Layer your clothing to regulate body temperature in cold weather.",
+        "Carry electrolytes to replenish lost minerals in hot weather.",
+        "Know when to seek help in case of extreme symptoms."
+      ]
+    },
+    {
+      "title": "Prepare for Injuries on the Trail",
+      "description": "Understand how to treat and manage common injuries during outdoor activities.",
+      "steps": "Know how to treat sprains, strains, blisters, and cuts. Apply basic wound care, such as cleaning and dressing wounds, and know how to properly bandage injuries.",
+      "level": 3,
+      "order": 2,
+      "tips": [
+        "Carry blister bandages and moleskin for foot care.",
+        "For sprains, apply the R.I.C.E method (Rest, Ice, Compression, Elevation).",
+        "Always clean wounds properly to prevent infection."
+      ]
+    },
+    {
+      "title": "Know How to Signal for Help",
+      "description": "Be prepared to signal for help if you become lost or injured.",
+      "steps": "Carry a whistle, mirror, or signal flare to signal your location. In emergencies, create large visual signals such as an SOS sign or smoke.",
+      "level": 4,
+      "order": 0,
+      "tips": [
+        "Use your whistle in short bursts to conserve energy.",
+        "Create a large SOS sign using rocks, logs, or other available materials.",
+        "Ensure your signaling devices are easily accessible in your pack."
+      ]
+    },
+    {
+      "title": "Practice Leave No Trace Principles",
+      "description": "Be mindful of your environmental impact during your hike.",
+      "steps": "Leave the environment as you found it. Pack out all trash, avoid disturbing wildlife, and stay on established trails.",
+      "level": 4,
+      "order": 1,
+      "tips": [
+        "Take only photos and leave only footprints.",
+        "Dispose of waste properly by using a trowel to bury human waste.",
+        "Avoid picking plants or disturbing habitats."
+      ]
+    },
+    {
+      "title": "Monitor Weather and Time",
+      "description": "Stay aware of changing weather and the time of day.",
+      "steps": "Keep an eye on the sky for signs of bad weather, such as dark clouds or changing winds. Know your estimated return time and be mindful of sunset times.",
+      "level": 4,
+      "order": 2,
+      "tips": [
+        "Bring a weather radio or check for weather updates on your phone.",
+        "Start early to avoid hiking in low visibility or night conditions.",
+        "Have a backup plan if weather conditions become unfavorable."
+      ]
+    },
+    {
+      "title": "Carry a Multi-tool and Emergency Supplies",
+      "description": "Pack essential tools for emergency situations.",
+      "steps": "Include a multi-tool, emergency blanket, firestarter, and extra food or water in your pack. These items can be lifesavers in case of unexpected delays or accidents.",
+      "level": 5,
+      "order": 0,
+      "tips": [
+        "A multi-tool with a knife, pliers, and screwdriver is essential for quick repairs.",
+        "Ensure your emergency blanket is compact and easily accessible.",
+        "Check that your emergency supplies are in working condition before each trip."
+      ]
+    },
+    {
+      "title": "Understand Basic Navigation with a Compass",
+      "description": "Master the basic skills of using a compass for navigation.",
+      "steps": "Learn how to use a compass to find bearings and determine your location. Practice setting a bearing and navigating to a specific location using your compass and map.",
+      "level": 5,
+      "order": 1,
+      "tips": [
+        "Always check your compass for declination to ensure accurate readings.",
+        "Practice using your compass in a safe, familiar area before heading out.",
+        "Use the compass alongside a map for better accuracy and understanding of your surroundings."
+      ]
     }
-  ],
+  ],  
   "Food": [
     {
       "title": "Generic Quest",

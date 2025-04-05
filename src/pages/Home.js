@@ -7,7 +7,7 @@ function Home() {
       <header className="App-header">
         <img src={require('../ozzyLogo-shadow.png')} className="pfp" alt="pfp" />
         <p class="username">Miles Easton</p>
-        <p class="usertitle">Veteran Camper</p>
+        <p class="usertitle"><b>5</b>: Veteran Camper</p>
         <div className="userlevel"><div className="levelprogress"></div></div>
         <p class="main-title">CampQuest</p>
         
@@ -15,10 +15,19 @@ function Home() {
       <body>
         <div className="whattodo">What would you like to work towards?</div>
         <div className="button-group">
-            <Link to="/bushcraft"><button className="nav-button">Bushcraft</button></Link>
-            <Link to="/navigation"><button className="nav-button">Navigation & Safety</button></Link>
-            <Link to="/food"><button className="nav-button">Cooking</button></Link>
-            <Link to="/fire"><button className="nav-button">Fire</button></Link>
+            <Link to="/bushcraft"><button className="nav-button">
+                <img src={require('../coolasstent.png')} className="epictent" alt="tent" />
+                <p className="selectorthingy">Bushcraft</p>
+                </button></Link>
+            <Link to="/navigation"><button className="nav-button">
+                <img src={require('../coolassfire.png')} className="epictent andfire" alt="tent" />
+                <p className="selectorthingy">Fire</p>
+                </button></Link>
+            <Link to="/food"><button className="nav-button">
+                <img src={require('../coolassstove.png')} className="epictent" alt="tent" />
+                <p className="selectorthingy">Cooking</p>
+                </button></Link>
+            <Link to="/fire"><button className="nav-button">Orienteering</button></Link>
         </div>
       </body>
     </div>

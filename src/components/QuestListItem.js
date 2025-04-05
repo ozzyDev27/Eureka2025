@@ -1,12 +1,25 @@
 import '../App.css';
-import { TbCampfire } from "react-icons/tb";
+import { FaTent, FaFire, FaTree } from "react-icons/fa6";
 import { Link } from 'react-router-dom';
 
-function QuestListItem({ title, level, description }) {
+function QuestListItem({ title, level, description, icon }) {
+
+    let iconElem
+
+    if (icon === "tree") {
+        iconElem = <FaTree className="icon" />
+    } else if (icon === "campfire") {
+        iconElem = <FaFire className="icon" />
+    } else if (icon === "shelter") {
+        iconElem = <FaTent className="icon" />
+    } else {
+        console.log("Invalid icon name: " + icon)
+    }
+
     return (
         <Link to={`/quest/${title}`} className="quest-list-item">
             <div className="icon-section">
-                <TbCampfire className="icon" />
+                {iconElem}
                 <p className="level">LVL {level}</p>
             </div>
             <div className="text-section">

@@ -33,8 +33,7 @@ function QuestPage({ name }) {
   return (
     <div>
       <Header title="Bushcraft" />
-      <h1>Bushcraft Skills</h1>
-      <div>
+      <div className='questlistcontainer'>
         {Object.keys(questsByLevel).map(level => (
           <div key={level}>
             <h2>Level {level}</h2>
@@ -44,6 +43,7 @@ function QuestPage({ name }) {
                 title={quest.title}
                 description={quest.description}
                 level={quest.level}
+                icon={quest.icon}
               />
             ))}
           </div>
