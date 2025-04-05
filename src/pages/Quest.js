@@ -4,10 +4,10 @@ import React, { useState, useEffect } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import { FaTent, FaFire, FaTree } from "react-icons/fa6";
 import Header from '../components/Header.js';
+import { Link } from 'react-router-dom';
 
 function QuestDetails() {
   const { name } = useParams();
-  const navigate = useNavigate();
 
   const [quests, setQuests] = useState([]);
   const [quest, setQuest] = useState(null);
@@ -48,12 +48,11 @@ function QuestDetails() {
 
   return (
     <div className="quest-container">
-      <Header title="Details" />
+      <Header title={quest.title} className="aa"/>
       <div className="level-icon">
         {iconElem}
         <div className="level">Level {quest.level} Quest</div>
       </div>
-      <h1 className="title">{quest.title}</h1>
       <div className="image-container">
         <img
           src={quest.url || "https://via.placeholder.com/300x200"}
@@ -61,16 +60,16 @@ function QuestDetails() {
           className="quest-image"
         />
       </div>
-      <p className="description">{quest.description}</p>
+      <p className="descriptionA">{quest.description}</p>
       <h2 className="tips-title">Tips</h2>
       <ul className="tips-list">
         {quest.tips.map((tip, index) => (
           <li key={index}>{tip}</li>
         ))}
       </ul>
-      <button className="complete-button">
+      <Link to={`/complete/${quest.title}`} className="complete-button">
         Complete Quest
-      </button>
+      </Link>
     </div>
   );
 }

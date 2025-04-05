@@ -1,12 +1,17 @@
 import '../App.css';
-import { FaTent, FaFire, FaTree } from "react-icons/fa6";
+import { FaCheck, FaTent, FaFire, FaTree } from "react-icons/fa6";
 import { Link } from 'react-router-dom';
 
 function QuestListItem({ title, level, description, icon }) {
 
     let iconElem
 
-    if (icon === "tree") {
+    const completedQuests = localStorage.getItem("completedQuests") ?? [];
+
+    if (completedQuests.includes(title)){
+        iconElem = <FaCheck className="icon" />
+    }
+    else if (icon === "tree") {
         iconElem = <FaTree className="icon" />
     } else if (icon === "campfire") {
         iconElem = <FaFire className="icon" />
@@ -23,7 +28,7 @@ function QuestListItem({ title, level, description, icon }) {
                 <p className="level">LVL {level}</p>
             </div>
             <div className="text-section">
-                <h3 className="title">{title}</h3>
+                <h3 className="titleaa">{title}</h3>
                 <p className="description">{description}</p>
             </div>
         </Link>

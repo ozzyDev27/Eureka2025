@@ -5,7 +5,7 @@
       "description": "Find a safe location for your campsite.",
       "steps": "Look for flat, dry ground away from hazards like falling branches or water run-off areas. Avoid animal trails and check for wind direction.",
       "level": 1,
-      "url": "https://midwestexplored.com/wp-content/uploads/2022/05/tent-by-a-river-camping-in-illinois.jpg",
+      "url": "https://blog.ontarioparks.ca/wp-content/uploads/2020/01/SixMile_Campsite.jpg",
       "order": 1,
       "imgdesc": "",
       "tips": [
@@ -241,333 +241,498 @@
       "icon": "shelter"
     }
   ],
-  "Fire": [
-    {
-      "title": "Gather Resources",
-      "description": "Collect the materials needed for a fire.",
-      "steps": "Find dry tinder, kindling, and fuel. Tinder should be small and easy to ignite, kindling should be slightly larger, and fuel should be logs or branches.",
-      "level": 1,
-      "order": 1,
-      "tips": [
-        "Look for dry leaves, grass, or bark for tinder.",
-        "Use smaller twigs and branches for kindling.",
-        "Ensure fuel is dry and no larger than your wrist for easier burning."
-      ]
-    },
-    {
-      "title": "Prepare the Fire Pit",
-      "description": "Create a safe and controlled area for your fire.",
-      "steps": "Clear an area of debris, rocks, and leaves. Dig a small pit or use a fire ring if available. Arrange the gathered materials in an accessible way.",
-      "level": 1,
-      "order": 2,
-      "tips": [
-        "Clear a wide area around the fire pit to prevent the spread of flames.",
-        "Digging a shallow pit can help contain the fire.",
-        "Have water or dirt nearby to extinguish the fire if needed."
-      ]
-    },
-    {
-      "title": "Build a Tinder Bundle",
-      "description": "Create a bundle of materials that will ignite easily.",
-      "steps": "Gather small, dry materials like dried grass, leaves, and small twigs. Arrange them loosely to allow airflow for ignition.",
-      "level": 1,
-      "order": 3,
-      "tips": [
-        "Use fluffy materials that catch fire easily.",
-        "Avoid packing the tinder too tightly to allow air circulation.",
-        "Consider adding a bit of birch bark or cotton balls for extra flammability."
-      ]
-    },
-    {
-      "title": "Start the Fire with Matches or Lighter",
-      "description": "Use matches or a lighter to ignite your tinder bundle.",
-      "steps": "Hold the match or lighter close to the tinder bundle and ignite it. Gently blow on the tinder to encourage the flame. Once it catches, add kindling gradually.",
-      "level": 1,
-      "order": 4,
-      "tips": [
-        "Keep your matches or lighter dry in a waterproof container.",
-        "Light the match away from your body to avoid burns.",
-        "Be patient; let the tinder catch before adding larger materials."
-      ]
-    },
-    {
-      "title": "Use a Fire Starter Kit",
-      "description": "Use a specialized fire starter to ignite your tinder.",
-      "steps": "Using a magnesium fire starter or flint and steel, create sparks that land on your tinder bundle. Allow the sparks to ignite the tinder and gradually add kindling.",
-      "level": 2,
-      "order": 1,
-      "tips": [
-        "Use a piece of cotton or a charred cloth to catch the sparks from a flint and steel.",
-        "Ensure you have a solid strike angle when using a magnesium fire starter.",
-        "Keep your fire starter dry and stored in a protective container."
-      ]
-    },
-    {
-      "title": "Construct a Teepee Fire Structure",
-      "description": "Build a cone-shaped structure to direct heat and airflow.",
-      "steps": "Arrange kindling and small branches in a cone shape around the tinder bundle. Leave space for airflow at the base.",
-      "level": 2,
-      "order": 2,
-      "tips": [
-        "Ensure the structure is tall enough to allow for a sustained fire.",
-        "Keep the teepee structure loose so air can circulate.",
-        "Add larger fuel pieces as the fire grows to maintain a consistent flame."
-      ]
-    },
-    {
-      "title": "Create a Log Cabin Fire Structure",
-      "description": "Build a stable fire structure to allow for long-lasting heat.",
-      "steps": "Place two larger logs parallel to each other on the ground. Stack smaller logs on top of them, forming a square. Leave gaps for airflow, and place your tinder inside the structure.",
-      "level": 2,
-      "order": 3,
-      "tips": [
-        "Use logs that are seasoned and dry for better burning.",
-        "Stack the logs in a crisscross fashion for stability.",
-        "Start with smaller logs and gradually build up the structure."
-      ]
-    },
-    {
-      "title": "Use a Bow Drill to Start Fire",
-      "description": "Utilize a bow drill to create friction and generate heat.",
-      "steps": "Create a notch in a flat piece of wood (the hearth), place a spindle in the notch, and use the bow to create friction. Keep the spindle spinning quickly to generate heat until an ember forms.",
-      "level": 4,
-      "order": 1,
-      "tips": [
-        "Use softwood like cedar or pine for the hearth and spindle.",
-        "Ensure the bow is tight and the spindle is securely held.",
-        "Be prepared for a lot of effort and practice to master this technique."
-      ]
-    },
-    {
-      "title": "Use a Fire Plough",
-      "description": "Create fire using a fire plough technique to scrape wood.",
-      "steps": "Find a dry piece of softwood and scrape a sharp edge along the wood, creating friction that produces heat and eventually a spark. Collect the spark and place it on a tinder bundle.",
-      "level": 4,
-      "order": 2,
-      "tips": [
-        "Make sure the piece of wood you use is dry and free from resin.",
-        "Ensure your scraping motion is steady and firm.",
-        "Keep your tinder bundle ready to catch the spark immediately."
-      ]
-    },
-    {
-      "title": "Create a Fire with Sunlight (Magnifying Glass)",
-      "description": "Harness sunlight to create fire with a magnifying glass.",
-      "steps": "Focus sunlight through the magnifying glass onto dry tinder until it begins to smoke. Once the tinder catches, gently blow on it to start the fire.",
-      "level": 4,
-      "order": 3,
-      "tips": [
-        "Use a magnifying glass with a larger lens for more focused sunlight.",
-        "Ensure the weather is sunny with minimal clouds for maximum effectiveness.",
-        "Be patient; it may take some time for the tinder to catch."
-      ]
-    },
-    {
-      "title": "Create Fire with Friction (Bow Drill)",
-      "description": "Master the bow drill technique for firemaking.",
-      "steps": "With the correct materials, use the bow drill method by rubbing the spindle against the hearth with a bow until you create an ember. Carefully transfer the ember to your tinder bundle.",
-      "level": 5,
-      "order": 1,
-      "tips": [
-        "Choose softwood like cottonwood or cedar for the spindle and hearth.",
-        "Ensure the spindle is straight and smooth for maximum friction.",
-        "Work in a dry environment for better results."
-      ]
-    },
-    {
-      "title": "Create Fire with Firesteel",
-      "description": "Use a firesteel to create sparks for firemaking.",
-      "steps": "Strike a firesteel with a metal striker, directing the sparks onto your tinder bundle. Add kindling as the fire catches.",
-      "level": 5,
-      "order": 2,
-      "tips": [
-        "Use dry, fluffy materials for tinder to catch the sparks.",
-        "Aim to create a concentrated spark by striking the firesteel quickly.",
-        "Be aware that firesteel can be challenging in windy conditions."
-      ]
-    }
-  ],
+"Fire": [
+  {
+    "title": "Gather Resources",
+    "description": "Collect the materials needed for a fire.",
+    "steps": "Find dry tinder, kindling, and fuel. Tinder should be small and easy to ignite, kindling should be slightly larger, and fuel should be logs or branches.",
+    "level": 1,
+    "order": 1,
+    "tips": [
+      "Look for dry leaves, grass, or bark for tinder.",
+      "Use smaller twigs and branches for kindling.",
+      "Ensure fuel is dry and no larger than your wrist for easier burning."
+    ],
+    "icon": "campfire"
+  },
+  {
+    "title": "Prepare the Fire Pit",
+    "description": "Create a safe and controlled area for your fire.",
+    "steps": "Clear an area of debris, rocks, and leaves. Dig a small pit or use a fire ring if available. Arrange the gathered materials in an accessible way.",
+    "level": 1,
+    "order": 2,
+    "tips": [
+      "Clear a wide area around the fire pit to prevent the spread of flames.",
+      "Digging a shallow pit can help contain the fire.",
+      "Have water or dirt nearby to extinguish the fire if needed."
+    ],
+    "icon": "campfire"
+  },
+  {
+    "title": "Build a Tinder Bundle",
+    "description": "Create a bundle of materials that will ignite easily.",
+    "steps": "Gather small, dry materials like dried grass, leaves, and small twigs. Arrange them loosely to allow airflow for ignition.",
+    "level": 1,
+    "order": 3,
+    "tips": [
+      "Use fluffy materials that catch fire easily.",
+      "Avoid packing the tinder too tightly to allow air circulation.",
+      "Consider adding a bit of birch bark or cotton balls for extra flammability."
+    ],
+    "icon": "campfire"
+  },
+  {
+    "title": "Start the Fire with Matches or Lighter",
+    "description": "Use matches or a lighter to ignite your tinder bundle.",
+    "steps": "Hold the match or lighter close to the tinder bundle and ignite it. Gently blow on the tinder to encourage the flame. Once it catches, add kindling gradually.",
+    "level": 1,
+    "order": 4,
+    "tips": [
+      "Keep your matches or lighter dry in a waterproof container.",
+      "Light the match away from your body to avoid burns.",
+      "Be patient; let the tinder catch before adding larger materials."
+    ],
+    "icon": "campfire"
+  },
+  {
+    "title": "Use a Fire Starter Kit",
+    "description": "Use a specialized fire starter to ignite your tinder.",
+    "steps": "Using a magnesium fire starter or flint and steel, create sparks that land on your tinder bundle. Allow the sparks to ignite the tinder and gradually add kindling.",
+    "level": 2,
+    "order": 1,
+    "tips": [
+      "Use a piece of cotton or a charred cloth to catch the sparks from a flint and steel.",
+      "Ensure you have a solid strike angle when using a magnesium fire starter.",
+      "Keep your fire starter dry and stored in a protective container."
+    ],
+    "icon": "campfire"
+  },
+  {
+    "title": "Construct a Teepee Fire Structure",
+    "description": "Build a cone-shaped structure to direct heat and airflow.",
+    "steps": "Arrange kindling and small branches in a cone shape around the tinder bundle. Leave space for airflow at the base.",
+    "level": 2,
+    "order": 2,
+    "tips": [
+      "Ensure the structure is tall enough to allow for a sustained fire.",
+      "Keep the teepee structure loose so air can circulate.",
+      "Add larger fuel pieces as the fire grows to maintain a consistent flame."
+    ],
+    "icon": "campfire"
+  },
+  {
+    "title": "Create a Log Cabin Fire Structure",
+    "description": "Build a stable fire structure to allow for long-lasting heat.",
+    "steps": "Place two larger logs parallel to each other on the ground. Stack smaller logs on top of them, forming a square. Leave gaps for airflow, and place your tinder inside the structure.",
+    "level": 2,
+    "order": 3,
+    "tips": [
+      "Use logs that are seasoned and dry for better burning.",
+      "Stack the logs in a crisscross fashion for stability.",
+      "Start with smaller logs and gradually build up the structure."
+    ],
+    "icon": "campfire"
+  },
+  {
+    "title": "Use a Bow Drill to Start Fire",
+    "description": "Utilize a bow drill to create friction and generate heat.",
+    "steps": "Create a notch in a flat piece of wood (the hearth), place a spindle in the notch, and use the bow to create friction. Keep the spindle spinning quickly to generate heat until an ember forms.",
+    "level": 4,
+    "order": 1,
+    "tips": [
+      "Use softwood like cedar or pine for the hearth and spindle.",
+      "Ensure the bow is tight and the spindle is securely held.",
+      "Be prepared for a lot of effort and practice to master this technique."
+    ],
+    "icon": "campfire"
+  },
+  {
+    "title": "Use a Fire Plough",
+    "description": "Create fire using a fire plough technique to scrape wood.",
+    "steps": "Find a dry piece of softwood and scrape a sharp edge along the wood, creating friction that produces heat and eventually a spark. Collect the spark and place it on a tinder bundle.",
+    "level": 4,
+    "order": 2,
+    "tips": [
+      "Make sure the piece of wood you use is dry and free from resin.",
+      "Ensure your scraping motion is steady and firm.",
+      "Keep your tinder bundle ready to catch the spark immediately."
+    ],
+    "icon": "campfire"
+  },
+  {
+    "title": "Create a Fire with Sunlight (Magnifying Glass)",
+    "description": "Harness sunlight to create fire with a magnifying glass.",
+    "steps": "Focus sunlight through the magnifying glass onto dry tinder until it begins to smoke. Once the tinder catches, gently blow on it to start the fire.",
+    "level": 4,
+    "order": 3,
+    "tips": [
+      "Use a magnifying glass with a larger lens for more focused sunlight.",
+      "Ensure the weather is sunny with minimal clouds for maximum effectiveness.",
+      "Be patient; it may take some time for the tinder to catch."
+    ],
+    "icon": "campfire"
+  },
+  {
+    "title": "Create Fire with Friction (Bow Drill)",
+    "description": "Master the bow drill technique for firemaking.",
+    "steps": "With the correct materials, use the bow drill method by rubbing the spindle against the hearth with a bow until you create an ember. Carefully transfer the ember to your tinder bundle.",
+    "level": 5,
+    "order": 1,
+    "tips": [
+      "Choose softwood like cottonwood or cedar for the spindle and hearth.",
+      "Ensure the spindle is straight and smooth for maximum friction.",
+      "Work in a dry environment for better results."
+    ],
+    "icon": "campfire"
+  },
+  {
+    "title": "Create Fire with Firesteel",
+    "description": "Use a firesteel to create sparks for firemaking.",
+    "steps": "Strike a firesteel with a metal striker, directing the sparks onto your tinder bundle. Add kindling as the fire catches.",
+    "level": 5,
+    "order": 2,
+    "tips": [
+      "Use dry, fluffy materials for tinder to catch the sparks.",
+      "Aim to create a concentrated spark by striking the firesteel quickly.",
+      "Be aware that firesteel can be challenging in windy conditions."
+    ],
+    "icon": "campfire"
+  }
+],
   "Orienteering": [
-    {
-      "title": "Understand Your Terrain",
-      "description": "Familiarize yourself with the landscape before heading out.",
-      "steps": "Study a map of the area and identify key landmarks, including trails, water sources, and terrain features. Understand the weather patterns and potential hazards.",
-      "level": 1,
-      "order": 1,
-      "tips": [
-        "Carry a topographic map and compass for navigation.",
-        "Familiarize yourself with local wildlife and potential hazards, like cliffs or dense forests.",
-        "Check the weather forecast before leaving to avoid unexpected storms."
-      ]
-    },
-    {
-      "title": "Pack Essential Navigation Tools",
-      "description": "Ensure you have proper equipment for navigation and safety.",
-      "steps": "Bring a compass, a map, and a GPS device. Make sure your map is relevant to the area you're exploring and that your compass is functioning properly.",
-      "level": 1,
-      "order": 2,
-      "tips": [
-        "Test your compass before the trip to ensure it’s accurate.",
-        "If using a GPS, bring extra batteries or a power bank.",
-        "Learn basic compass skills, like how to use bearings to find your way."
-      ]
-    },
-    {
-      "title": "Plan Your Route",
-      "description": "Chart your path and share your plan with someone.",
-      "steps": "Create a detailed route plan with estimated times for each leg of the journey. Let a friend or family member know your plans and expected return time.",
-      "level": 1,
-      "order": 3,
-      "tips": [
-        "Factor in your experience level and physical capabilities when planning your route.",
-        "Leave a printed copy of your route with someone you trust in case of emergency.",
-        "Avoid pushing yourself to complete overly ambitious routes if you're not prepared."
-      ]
-    },
-    {
-      "title": "Identify Hazardous Terrain",
-      "description": "Recognize dangerous terrain and avoid risky situations.",
-      "steps": "Look for signs of unstable ground, like loose rocks, ice, or steep inclines. Avoid hiking near cliffs or crossing swift-moving water.",
-      "level": 2,
-      "order": 1,
-      "tips": [
-        "Check for loose soil or rocks that could cause a fall.",
-        "Avoid hiking near water during heavy rain or snowmelt when the current is strong.",
-        "Pay attention to trail markers that indicate dangerous terrain."
-      ]
-    },
-    {
-      "title": "Check for Wildlife Hazards",
-      "description": "Be aware of wildlife and know how to respond to encounters.",
-      "steps": "Research the area’s wildlife before your trip. Learn how to identify dangerous animals and know what to do in the event of an encounter (e.g., bears, snakes, or large predators).",
-      "level": 2,
-      "order": 2,
-      "tips": [
-        "Carry bear spray if you're in an area known for bears.",
-        "Make noise as you walk to avoid surprising wildlife.",
-        "Know the signs of dangerous animal behavior and how to react accordingly."
-      ]
-    },
-    {
-      "title": "Stay Hydrated and Nourished",
-      "description": "Ensure you have enough food and water during your trip.",
-      "steps": "Pack sufficient water for your trip, or carry a filter to purify natural water sources. Bring high-energy snacks like nuts, granola bars, or dried fruit to maintain energy.",
-      "level": 2,
-      "order": 3,
-      "tips": [
-        "Drink small amounts of water regularly to avoid dehydration.",
-        "Pack extra food in case of delays or emergencies.",
-        "Check water sources for contamination and filter accordingly."
-      ]
-    },
-    {
-      "title": "Know Basic First Aid",
-      "description": "Be prepared to address minor injuries or medical emergencies.",
-      "steps": "Carry a first aid kit and know how to use its contents. Learn basic first aid skills, such as treating cuts, burns, sprains, and insect stings.",
-      "level": 3,
-      "order": 0,
-      "tips": [
-        "Take a first aid course to familiarize yourself with emergency procedures.",
-        "Pack a basic first aid kit with bandages, antiseptic, pain relief, and a splint.",
-        "Learn how to recognize symptoms of hypothermia and heatstroke."
-      ]
-    },
-    {
-      "title": "Respond to Hypothermia and Heatstroke",
-      "description": "Recognize the signs of hypothermia and heatstroke and act quickly.",
-      "steps": "Monitor for early symptoms like shivering, confusion, or dizziness. For hypothermia, warm the person gradually with blankets and warmth. For heatstroke, move the person to a shaded area, hydrate, and cool them down with water.",
-      "level": 3,
-      "order": 1,
-      "tips": [
-        "Layer your clothing to regulate body temperature in cold weather.",
-        "Carry electrolytes to replenish lost minerals in hot weather.",
-        "Know when to seek help in case of extreme symptoms."
-      ]
-    },
-    {
-      "title": "Prepare for Injuries on the Trail",
-      "description": "Understand how to treat and manage common injuries during outdoor activities.",
-      "steps": "Know how to treat sprains, strains, blisters, and cuts. Apply basic wound care, such as cleaning and dressing wounds, and know how to properly bandage injuries.",
-      "level": 3,
-      "order": 2,
-      "tips": [
-        "Carry blister bandages and moleskin for foot care.",
-        "For sprains, apply the R.I.C.E method (Rest, Ice, Compression, Elevation).",
-        "Always clean wounds properly to prevent infection."
-      ]
-    },
-    {
-      "title": "Know How to Signal for Help",
-      "description": "Be prepared to signal for help if you become lost or injured.",
-      "steps": "Carry a whistle, mirror, or signal flare to signal your location. In emergencies, create large visual signals such as an SOS sign or smoke.",
-      "level": 4,
-      "order": 0,
-      "tips": [
-        "Use your whistle in short bursts to conserve energy.",
-        "Create a large SOS sign using rocks, logs, or other available materials.",
-        "Ensure your signaling devices are easily accessible in your pack."
-      ]
-    },
-    {
-      "title": "Practice Leave No Trace Principles",
-      "description": "Be mindful of your environmental impact during your hike.",
-      "steps": "Leave the environment as you found it. Pack out all trash, avoid disturbing wildlife, and stay on established trails.",
-      "level": 4,
-      "order": 1,
-      "tips": [
-        "Take only photos and leave only footprints.",
-        "Dispose of waste properly by using a trowel to bury human waste.",
-        "Avoid picking plants or disturbing habitats."
-      ]
-    },
-    {
-      "title": "Monitor Weather and Time",
-      "description": "Stay aware of changing weather and the time of day.",
-      "steps": "Keep an eye on the sky for signs of bad weather, such as dark clouds or changing winds. Know your estimated return time and be mindful of sunset times.",
-      "level": 4,
-      "order": 2,
-      "tips": [
-        "Bring a weather radio or check for weather updates on your phone.",
-        "Start early to avoid hiking in low visibility or night conditions.",
-        "Have a backup plan if weather conditions become unfavorable."
-      ]
-    },
-    {
-      "title": "Carry a Multi-tool and Emergency Supplies",
-      "description": "Pack essential tools for emergency situations.",
-      "steps": "Include a multi-tool, emergency blanket, firestarter, and extra food or water in your pack. These items can be lifesavers in case of unexpected delays or accidents.",
-      "level": 5,
-      "order": 0,
-      "tips": [
-        "A multi-tool with a knife, pliers, and screwdriver is essential for quick repairs.",
-        "Ensure your emergency blanket is compact and easily accessible.",
-        "Check that your emergency supplies are in working condition before each trip."
-      ]
-    },
-    {
-      "title": "Understand Basic Navigation with a Compass",
-      "description": "Master the basic skills of using a compass for navigation.",
-      "steps": "Learn how to use a compass to find bearings and determine your location. Practice setting a bearing and navigating to a specific location using your compass and map.",
-      "level": 5,
-      "order": 1,
-      "tips": [
-        "Always check your compass for declination to ensure accurate readings.",
-        "Practice using your compass in a safe, familiar area before heading out.",
-        "Use the compass alongside a map for better accuracy and understanding of your surroundings."
-      ]
-    }
-  ],  
+  {
+    "title": "Understand Your Terrain",
+    "description": "Familiarize yourself with the landscape before heading out.",
+    "steps": "Study a map of the area and identify key landmarks, including trails, water sources, and terrain features. Understand the weather patterns and potential hazards.",
+    "level": 1,
+    "order": 1,
+    "tips": [
+      "Carry a topographic map and compass for navigation.",
+      "Familiarize yourself with local wildlife and potential hazards, like cliffs or dense forests.",
+      "Check the weather forecast before leaving to avoid unexpected storms."
+    ],
+    "icon": "tree"
+  },
+  {
+    "title": "Pack Essential Navigation Tools",
+    "description": "Ensure you have proper equipment for navigation and safety.",
+    "steps": "Bring a compass, a map, and a GPS device. Make sure your map is relevant to the area you're exploring and that your compass is functioning properly.",
+    "level": 1,
+    "order": 2,
+    "tips": [
+      "Test your compass before the trip to ensure it’s accurate.",
+      "If using a GPS, bring extra batteries or a power bank.",
+      "Learn basic compass skills, like how to use bearings to find your way."
+    ],
+    "icon": "tree"
+  },
+  {
+    "title": "Plan Your Route",
+    "description": "Chart your path and share your plan with someone.",
+    "steps": "Create a detailed route plan with estimated times for each leg of the journey. Let a friend or family member know your plans and expected return time.",
+    "level": 1,
+    "order": 3,
+    "tips": [
+      "Factor in your experience level and physical capabilities when planning your route.",
+      "Leave a printed copy of your route with someone you trust in case of emergency.",
+      "Avoid pushing yourself to complete overly ambitious routes if you're not prepared."
+    ],
+    "icon": "tree"
+  },
+  {
+    "title": "Identify Hazardous Terrain",
+    "description": "Recognize dangerous terrain and avoid risky situations.",
+    "steps": "Look for signs of unstable ground, like loose rocks, ice, or steep inclines. Avoid hiking near cliffs or crossing swift-moving water.",
+    "level": 2,
+    "order": 1,
+    "tips": [
+      "Check for loose soil or rocks that could cause a fall.",
+      "Avoid hiking near water during heavy rain or snowmelt when the current is strong.",
+      "Pay attention to trail markers that indicate dangerous terrain."
+    ],
+    "icon": "tree"
+  },
+  {
+    "title": "Check for Wildlife Hazards",
+    "description": "Be aware of wildlife and know how to respond to encounters.",
+    "steps": "Research the area’s wildlife before your trip. Learn how to identify dangerous animals and know what to do in the event of an encounter (e.g., bears, snakes, or large predators).",
+    "level": 2,
+    "order": 2,
+    "tips": [
+      "Carry bear spray if you're in an area known for bears.",
+      "Make noise as you walk to avoid surprising wildlife.",
+      "Know the signs of dangerous animal behavior and how to react accordingly."
+    ],
+    "icon": "tree"
+  },
+  {
+    "title": "Stay Hydrated and Nourished",
+    "description": "Ensure you have enough food and water during your trip.",
+    "steps": "Pack sufficient water for your trip, or carry a filter to purify natural water sources. Bring high-energy snacks like nuts, granola bars, or dried fruit to maintain energy.",
+    "level": 2,
+    "order": 3,
+    "tips": [
+      "Drink small amounts of water regularly to avoid dehydration.",
+      "Pack extra food in case of delays or emergencies.",
+      "Check water sources for contamination and filter accordingly."
+    ],
+    "icon": "campfire"
+  },
+  {
+    "title": "Know Basic First Aid",
+    "description": "Be prepared to address minor injuries or medical emergencies.",
+    "steps": "Carry a first aid kit and know how to use its contents. Learn basic first aid skills, such as treating cuts, burns, sprains, and insect stings.",
+    "level": 3,
+    "order": 0,
+    "tips": [
+      "Take a first aid course to familiarize yourself with emergency procedures.",
+      "Pack a basic first aid kit with bandages, antiseptic, pain relief, and a splint.",
+      "Learn how to recognize symptoms of hypothermia and heatstroke."
+    ],
+    "icon": "shelter"
+  },
+  {
+    "title": "Respond to Hypothermia and Heatstroke",
+    "description": "Recognize the signs of hypothermia and heatstroke and act quickly.",
+    "steps": "Monitor for early symptoms like shivering, confusion, or dizziness. For hypothermia, warm the person gradually with blankets and warmth. For heatstroke, move the person to a shaded area, hydrate, and cool them down with water.",
+    "level": 3,
+    "order": 1,
+    "tips": [
+      "Layer your clothing to regulate body temperature in cold weather.",
+      "Carry electrolytes to replenish lost minerals in hot weather.",
+      "Know when to seek help in case of extreme symptoms."
+    ],
+    "icon": "shelter"
+  },
+  {
+    "title": "Prepare for Injuries on the Trail",
+    "description": "Understand how to treat and manage common injuries during outdoor activities.",
+    "steps": "Know how to treat sprains, strains, blisters, and cuts. Apply basic wound care, such as cleaning and dressing wounds, and know how to properly bandage injuries.",
+    "level": 3,
+    "order": 2,
+    "tips": [
+      "Carry blister bandages and moleskin for foot care.",
+      "For sprains, apply the R.I.C.E method (Rest, Ice, Compression, Elevation).",
+      "Always clean wounds properly to prevent infection."
+    ],
+    "icon": "shelter"
+  },
+  {
+    "title": "Know How to Signal for Help",
+    "description": "Be prepared to signal for help if you become lost or injured.",
+    "steps": "Carry a whistle, mirror, or signal flare to signal your location. In emergencies, create large visual signals such as an SOS sign or smoke.",
+    "level": 4,
+    "order": 0,
+    "tips": [
+      "Use your whistle in short bursts to conserve energy.",
+      "Create a large SOS sign using rocks, logs, or other available materials.",
+      "Ensure your signaling devices are easily accessible in your pack."
+    ],
+    "icon": "campfire"
+  },
+  {
+    "title": "Practice Leave No Trace Principles",
+    "description": "Be mindful of your environmental impact during your hike.",
+    "steps": "Leave the environment as you found it. Pack out all trash, avoid disturbing wildlife, and stay on established trails.",
+    "level": 4,
+    "order": 1,
+    "tips": [
+      "Take only photos and leave only footprints.",
+      "Dispose of waste properly by using a trowel to bury human waste.",
+      "Avoid picking plants or disturbing habitats."
+    ],
+    "icon": "tree"
+  },
+  {
+    "title": "Monitor Weather and Time",
+    "description": "Stay aware of changing weather and the time of day.",
+    "steps": "Keep an eye on the sky for signs of bad weather, such as dark clouds or changing winds. Know your estimated return time and be mindful of sunset times.",
+    "level": 4,
+    "order": 2,
+    "tips": [
+      "Bring a weather radio or check for weather updates on your phone.",
+      "Start early to avoid hiking in low visibility or night conditions.",
+      "Have a backup plan if weather conditions become unfavorable."
+    ],
+    "icon": "tree"
+  },
+  {
+    "title": "Carry a Multi-tool and Emergency Supplies",
+    "description": "Pack essential tools for emergency situations.",
+    "steps": "Include a multi-tool, emergency blanket, firestarter, and extra food or water in your pack. These items can be lifesavers in case of unexpected delays or accidents.",
+    "level": 5,
+    "order": 0,
+    "tips": [
+      "A multi-tool with a knife, pliers, and screwdriver is essential for quick repairs.",
+      "Ensure your emergency blanket is compact and easily accessible.",
+      "Check that your emergency supplies are in working condition before each trip."
+    ],
+    "icon": "campfire"
+  },
+  {
+    "title": "Understand Basic Navigation with a Compass",
+    "description": "Master the basic skills of using a compass for navigation.",
+    "steps": "Learn how to use a compass to find bearings and determine your location. Practice setting a bearing and navigating to a specific location using your compass and map.",
+    "level": 5,
+    "order": 1,
+    "tips": [
+      "Always check your compass for declination to ensure accurate readings.",
+      "Practice using your compass in a safe, familiar area before heading out.",
+      "Use the compass alongside a map for better accuracy and understanding of your surroundings."
+    ],
+    "icon": "tree"
+  }
+],
   "Food": [
     {
-      "title": "Generic Quest",
-      "description": "Idk lol",
+      "title": "Roast Marshmallows",
+      "description": "A fun and easy campfire treat.",
+      "steps": "Skewer marshmallows on a stick and hold them over a low flame. Rotate until golden brown or to your desired doneness.",
       "level": 1,
-      "order": 1
+      "url": "",
+      "order": 1,
+      "imgdesc": "",
+      "icon": "campfire",
+      "tips": [
+        "Use a stick with a blunt end or metal skewer for safety.",
+        "Let marshmallows cool before eating to avoid burns.",
+        "Don’t place too close to flames to prevent burning."
+      ]
     },
     {
-      "title": "Generic Quest2",
-      "description": "Idk loller",
-      "level": 1
+      "title": "Toast Bread on a Stick",
+      "description": "A simple way to make toast over a fire.",
+      "steps": "Wrap a slice of bread around a peeled green stick or skewer. Hold it over coals, rotating for even toasting.",
+      "level": 1,
+      "url": "",
+      "order": 2,
+      "imgdesc": "",
+      "icon": "campfire",
+      "tips": [
+        "Green wood is less likely to burn and adds strength.",
+        "Keep bread moving to avoid charring.",
+        "Try brushing with oil or butter before toasting for flavor."
+      ]
+    },
+    {
+      "title": "Boil Water",
+      "description": "Essential for cooking and safe drinking.",
+      "steps": "Fill a metal pot or canteen cup with water. Place it over a fire or stove until it reaches a rolling boil for at least 1 minute.",
+      "level": 1,
+      "url": "",
+      "order": 3,
+      "imgdesc": "",
+      "icon": "campfire",
+      "tips": [
+        "Use a lid to speed up boiling and conserve heat.",
+        "Purify water by boiling when unsure of its source.",
+        "Avoid direct flame contact to prevent soot buildup on your pot."
+      ]
+    },
+    {
+      "title": "Cook Foil Packets",
+      "description": "A mess-free method for cooking meals.",
+      "steps": "Wrap chopped veggies and meat or fish in foil with spices and oil. Seal tightly and place on coals for 15–30 minutes, turning occasionally.",
+      "level": 2,
+      "url": "",
+      "order": 1,
+      "imgdesc": "",
+      "icon": "campfire",
+      "tips": [
+        "Double wrap with foil to avoid leaks.",
+        "Check doneness by carefully opening the pack at the seam.",
+        "Pre-chop and marinate ingredients before your trip to save time."
+      ]
+    },
+    {
+      "title": "Grill Over Coals",
+      "description": "Cook directly over the heat for a smoky flavor.",
+      "steps": "Use a grill grate or green wood frame over a fire. Place meat, fish, or vegetables directly on the grate and cook evenly, flipping as needed.",
+      "level": 2,
+      "url": "",
+      "order": 2,
+      "imgdesc": "",
+      "icon": "campfire",
+      "tips": [
+        "Wait for flames to die down and use coals for even cooking.",
+        "Brush with oil to prevent sticking.",
+        "Use tongs or sticks to safely handle hot food."
+      ]
+    },
+    {
+      "title": "Bake Bannock Bread",
+      "description": "A simple camp bread that’s easy to make.",
+      "steps": "Mix flour, baking powder, salt, and water into a dough. Shape into a disc and cook on a hot rock or pan over the fire, flipping halfway through.",
+      "level": 3,
+      "url": "",
+      "order": 1,
+      "imgdesc": "",
+      "icon": "campfire",
+      "tips": [
+        "Use oil or grease to prevent sticking.",
+        "Bannock can also be wrapped around sticks and roasted.",
+        "Add sugar, dried fruit, or herbs for flavor variations."
+      ]
+    },
+    {
+      "title": "Use a Dutch Oven",
+      "description": "Versatile and durable for baking, roasting, or stewing.",
+      "steps": "Place ingredients in a cast iron Dutch oven. Set it in coals and add more coals to the lid. Cook low and slow, checking periodically.",
+      "level": 3,
+      "url": "",
+      "order": 2,
+      "imgdesc": "",
+      "icon": "campfire",
+      "tips": [
+        "Rotate the oven occasionally for even cooking.",
+        "Use parchment or foil inside for easy cleanup.",
+        "Great for stews, chili, or even cobbler."
+      ]
+    },
+    {
+      "title": "Smoke Meat or Fish",
+      "description": "Preserve and flavor food using smoke.",
+      "steps": "Build a small, controlled fire with green wood or damp chips for smoke. Hang food above the smoke in a ventilated structure for several hours.",
+      "level": 4,
+      "url": "",
+      "order": 1,
+      "imgdesc": "",
+      "icon": "tree",
+      "tips": [
+        "Keep the fire low to avoid cooking the meat.",
+        "Use hardwoods like hickory or oak for best flavor.",
+        "Thin cuts dry and smoke more quickly."
+      ]
+    },
+    {
+      "title": "Build a Camp Oven",
+      "description": "Make a primitive oven with stones and clay.",
+      "steps": "Create a dome structure using rocks and clay. Leave an opening for access and airflow. Heat with a fire inside, then bake food in the residual heat.",
+      "level": 5,
+      "url": "",
+      "order": 1,
+      "imgdesc": "",
+      "icon": "shelter",
+      "tips": [
+        "Let the clay dry fully before using the oven.",
+        "Test heat levels by placing a small stick inside.",
+        "Ideal for bread, pizza, or baked potatoes."
+      ]
+    },
+    {
+      "title": "Build a Clay Pot",
+      "description": "Craft your own cookware from natural materials.",
+      "steps": "Gather natural clay, form into a pot shape, and let dry slowly. Fire it in a low, controlled flame until hardened. Use for boiling or baking food.",
+      "level": 5,
+      "url": "",
+      "order": 2,
+      "imgdesc": "",
+      "icon": "tree",
+      "tips": [
+        "Test clay for pliability and grit content before shaping.",
+        "Let dry for several days before firing to prevent cracks.",
+        "Don’t expose to sudden heat changes to avoid breaking."
+      ]
     }
   ]
 }

@@ -8,6 +8,7 @@ import NavigationSafety from './pages/NavigationSafety';
 import Food from './pages/Food';
 import Fire from './pages/Fire';
 import QuestDetails from './pages/Quest'
+import QuestComplete from './pages/questcomplete';
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
         <Route path="/food" element={<Food />} />
         <Route path="/fire" element={<Fire />} />
         <Route path="/quest/:name" element={<QuestDetails/>} />
+        <Route path="/complete/:name" element={<QuestComplete/>} />
       </Routes>
     </Router>
   );

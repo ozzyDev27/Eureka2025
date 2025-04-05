@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "@google/genai": "^0.7.0",
+    "@google/generative-ai": "^0.24.0",
     "cra-template-pwa": "2.0.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",

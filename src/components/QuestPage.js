@@ -32,7 +32,7 @@ function QuestPage({ name }) {
 
   return (
     <div>
-      <Header title="Bushcraft" />
+      <Header title={name} />
       <div className='questlistcontainer'>
         {Object.keys(questsByLevel).map(level => (
           <div key={level}>

@@ -1,15 +1,17 @@
 .quest-container {
-  max-width: 400px;
+  max-width: 100vw;
   margin: 0 5vw;
   text-align: center;
-  font-family: Arial, sans-serif;
 }
 
 .level-icon {
   display: flex;
   align-items: center;
   justify-content: center;
+  top: 25vw;
+  transform: translatex(22.5vw);
   margin-bottom: 10px;
+  position: fixed;
 }
 
 .icon {
@@ -18,7 +20,7 @@
 }
 
 .level {
-  font-size: 5vw;
+  font-size: 4vw;
 }
 
 .title {
@@ -27,34 +29,49 @@
 }
 
 .image-container {
-  margin: 20px 0;
+  margin: 20px auto;
+  align-self: center;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  width: 75vw;
 }
 
 .quest-image {
-  width: 100%;
-  border-radius: 15px;
+  width: 75%;
+  transform: translate(0,-18.5vw);
+  border-radius: 5vw;
 }
 
-.description {
+.descriptionA {
   margin: 20px 0;
+  font-size:5vw;
+  transform: translate(0, -20vw);
 }
 
 .tips-title {
-  font-size: 20px;
+  font-size: 7vw;
   margin: 20px 0 10px;
+  transform: translateY(-20vw);
 }
 
 .tips-list {
   list-style-type: disc;
-  padding-left: 20px;
+  padding-left: 1px;
   text-align: left;
+  font-size: 4vw;
+  transform: translate(15vw,-20vw);
+  width: 60vw;
 }
 
 .complete-button {
   margin-top: 20px;
-  padding: 10px 20px;
   border: none;
   border-radius: 20px;
-  background-color: #ccc;
+  font-size: 10vw;
+  background-color: #568259;
   cursor: pointer;
+  padding: 10vw 5vw 10vw 5vw;
+  color: #fff;
+  text-decoration: none;;
 }
