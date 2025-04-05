@@ -21,12 +21,27 @@ function Home() {
     fetchDailyQuests();
   }, []);
 
+  useEffect(() => {
+    const questsComplete = (localStorage.getItem("completedQuests") ?? "[]").length;
+
+    function updateLevelProgress(percent) {
+      const progressBar = document.querySelector('.levelprogress');
+      progressBar.style.width = percent + 'vw'; // assuming you're using vw units
+    }
+  
+    // Example usage:
+    updateLevelProgress(questsComplete > 1 ? 20 : 60);
+  });
+
+  const questsComplete = JSON.parse(localStorage.getItem("completedQuests") ?? "[]").length;
+  const levelMessage = questsComplete < 1 ? 'Beginner' : 'Intermediate';
+
   return (
     <div className="App">
       <header className="App-header">
         <img src={require('../ozzyLogo-shadow.png')} className="pfp" alt="pfp" />
         <p className="username">Miles Easton</p>
-        <p className="usertitle"><b>Level 5</b>: Veteran Camper</p>
+        <p className="usertitle"><b>Level {questsComplete+1}</b>: {levelMessage} Camper</p>
         <div className="userlevel"><div className="levelprogress"></div></div>
         <p className="main-title">CampQuest</p>
       </header>

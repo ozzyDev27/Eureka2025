@@ -50,7 +50,7 @@ function QuestComplete() {
 
           if (completed) {
             setStatus("Quest Complete!");
-            const newQuests = localStorage.getItem("completedQuests") ?? [];
+            const newQuests = JSON.parse(localStorage.getItem("completedQuests") ?? "[]");
             newQuests.push(quest.title);
             console.log(JSON.stringify(newQuests));
             localStorage.setItem("completedQuests", JSON.stringify(newQuests));
